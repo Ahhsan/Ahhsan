@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-Ahhsan-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 
-  <a href=["https://linkedin.com/in/YourLinkedInProfile"](https://www.linkedin.com/in/me/)>
+  <a href="https://www.linkedin.com/in/me/">
     <img src="https://img.shields.io/badge/LinkedIn-Ahhsan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
