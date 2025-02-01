@@ -12,10 +12,8 @@
   <a href="https://github.com/Ahhsan">
     <img src="https://img.shields.io/badge/GitHub-Ahhsan-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/YourTwitterHandle">
-    <img src="https://img.shields.io/badge/Twitter-@Ahhsan-blue?style=for-the-badge&logo=twitter" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/YourLinkedInProfile">
+
+  <a href=["https://linkedin.com/in/YourLinkedInProfile"](https://www.linkedin.com/in/me/)>
     <img src="https://img.shields.io/badge/LinkedIn-Ahhsan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
