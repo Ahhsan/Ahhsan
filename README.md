@@ -29,17 +29,6 @@ I'm a passionate Backend & Cloud DevOps Engineer with a keen interest in buildin
 
 ---
 
-### Interactive Section
-
-Ever wanted a little fun on a profile?  
-Click the button below to try out a cool interactive feature (for example, a Tic-Tac-Toe game built using GitHub Actions and dynamic SVGs):
-
-[![Play Tic-Tac-Toe](https://img.shields.io/badge/Play-Tic_Tac_Toe-brightgreen?style=for-the-badge)](https://ahhsan-interactive-game.netlify.app)
-
-*Note: This is a sample link. Replace it with your interactive project URL or a fun experiment.*
-
----
-
 ### My Tech Stack
 
 <div align="center">
@@ -70,17 +59,14 @@ Click the button below to try out a cool interactive feature (for example, a Tic
 Feel free to reach out for collaborations or just a chat!
 
 <p align="center">
-  <a href="https://linkedin.com/in/YourLinkedInProfile">
+  <a href="[https://linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/me/)">
     <img src="https://img.shields.io/badge/LinkedIn-Ahhsan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ahhsan@example.com">
+  <a href="ahhsanul.hoque@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-*Visitor Count*  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahhsan&style=flat-square" alt="profile views" />
-</p>
+
