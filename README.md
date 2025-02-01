@@ -39,10 +39,6 @@ Passionate about **software development, machine learning, and open-source contr
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahhsan&show_icons=true&theme=radical" alt="Ahhsan's GitHub Stats"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahhsan&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
