@@ -29,13 +29,6 @@ Passionate about **software development, machine learning, and open-source contr
 ### My Tech Stack
 
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="50" alt="HTML"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="50" alt="CSS"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="50" alt="JavaScript"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="50" alt="React"/></a>
-</p>
-
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react" alt="My Skills" />
   </a>
