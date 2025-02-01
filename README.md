@@ -42,8 +42,7 @@ Passionate about **software development, machine learning, and open-source contr
 Feel free to reach out for collaborations or just a chat!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahhsanul-hoque-7a6134252/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahhsan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ahhsanul-hoque-7a6134252/">   
   </a>
   <a href="mailto:ahhsanul.hoque@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
