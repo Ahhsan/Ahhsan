@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-Ahhsan-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/me/">
+  <a href="https://www.linkedin.com/in/ahhsanul-hoque-7a6134252/">
     <img src="https://img.shields.io/badge/LinkedIn-Ahhsan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
@@ -57,7 +57,7 @@ I'm a passionate Backend & Cloud DevOps Engineer with a keen interest in buildin
 Feel free to reach out for collaborations or just a chat!
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/me/)">
+  <a href="https://www.linkedin.com/in/ahhsanul-hoque-7a6134252/">
     <img src="https://img.shields.io/badge/LinkedIn-Ahhsan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="ahhsanul.hoque@gmail.com">
