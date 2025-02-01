@@ -20,23 +20,30 @@
 
 ---
 
-### About Me
+## 🚀 About Me
+Passionate about **software development, machine learning, and open-source contributions**. I love crafting elegant solutions and building innovative projects that make an impact.
 
-I'm a passionate Backend & Cloud DevOps Engineer with a keen interest in building scalable, reliable systems. I enjoy automating workflows and exploring the latest in cloud technologies.  
-> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+- 🔭 Currently working on **exciting projects in AI and web development**
+- 🌱 Learning **deep learning, cloud computing, and DevOps**
+- 💡 Exploring **new technologies and best coding practices**
+- 💬 Ask me about **Python, JavaScript, and Machine Learning**
 
 ---
 
 ### My Tech Stack
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" title="AWS" alt="AWS" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+<p align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="50" alt="HTML"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="50" alt="CSS"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="50" alt="JavaScript"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="50" alt="React"/></a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
