@@ -7,13 +7,6 @@
   Hi, I'm Ahhsan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave"/>
 </h1>
 
-
-
-  <a href="https://www.linkedin.com/in/ahhsanul-hoque-7a6134252/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahhsan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -52,9 +45,10 @@ Feel free to reach out for collaborations or just a chat!
   <a href="https://www.linkedin.com/in/ahhsanul-hoque-7a6134252/">
     <img src="https://img.shields.io/badge/LinkedIn-Ahhsan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="ahhsanul.hoque@gmail.com">
+  <a href="mailto:ahhsanul.hoque@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+</a>
+
 </p>
 
 ---
